@@ -1,0 +1,6 @@
+{
+  "name": "LabGrid — Institutional Resource & Safety Governance Network",
+  "description": "Multi-department university and makerspace resource sharing platform featuring pre-booking safety badge compliance, explainable anti-monopolization fair allocation, photo-verified chain-of-custody check-in/out logs, and an immutable audit ledger.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
